@@ -1,6 +1,7 @@
 ### F2024DemoA
 
 Go to [google](https://www.google.com)
+Go to [local](newfile.md)
 
 2. Cat
 1. Dog
